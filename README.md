@@ -1,4 +1,4 @@
-# Hi 👋, I'm Dhruv Sankaliya
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/a52ac1c8-5236-4afc-8bbb-b5e802b2c53e" /># Hi 👋, I'm Dhruv Sankaliya
 
 💻 Backend Developer (Node.js) | MERN Stack  
 🚀 Solved 150+ LeetCode Problems  
@@ -49,7 +49,7 @@
 - Built to learn Firebase integration  
 - Real-time database usage  
 
-💻 GitHub: (add your repo link)
+💻 GitHub: https://github.com/er-dhruvv/Linkvault
 
 ---
 
@@ -77,6 +77,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...i
 - ⚡ Fun fact: ...
 -->
