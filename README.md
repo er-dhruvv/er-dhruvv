@@ -1,4 +1,4 @@
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/a52ac1c8-5236-4afc-8bbb-b5e802b2c53e" /># Hi 👋, I'm Dhruv Sankaliya
+# Hi 👋, I'm Dhruv Sankaliya
 
 💻 Backend Developer (Node.js) | MERN Stack  
 🚀 Solved 150+ LeetCode Problems  
@@ -49,7 +49,7 @@
 - Built to learn Firebase integration  
 - Real-time database usage  
 
-💻 GitHub: https://github.com/er-dhruvv/Linkvault
+💻 GitHub: (add your repo link)
 
 ---
 
@@ -64,19 +64,4 @@
 ---
 
 ## ⚡ Fun Fact
-I enjoy solving DSA problems and building real-world backend systems 🚀## Hi there 👋
-
-<!--
-**er-dhruvv/er-dhruvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...i
-- ⚡ Fun fact: ...
--->
+I enjoy solving DSA problems and building real-world backend systems 🚀
