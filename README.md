@@ -49,7 +49,7 @@
 - Built to learn Firebase integration  
 - Real-time database usage  
 
-💻 GitHub: (add your repo link)
+💻 GitHub: https://github.com/er-dhruvv/LinkVault
 
 ---
 
