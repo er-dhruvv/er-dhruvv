@@ -20,8 +20,6 @@
 - Built UI using pure HTML & CSS  
 - Focused on layout, design & responsiveness  
 
-(Upload this project to GitHub and add link here)
-
 ---
 
 ### 🛒 E-commerce Website (HTML, CSS, JavaScript)
