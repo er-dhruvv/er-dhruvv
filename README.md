@@ -1,7 +1,7 @@
 # Hi 👋, I'm Dhruv Sankaliya
 
 💻 Backend Developer (Node.js) | MERN Stack  
-🚀 Solved 175+ LeetCode Problems  
+🚀 Solved 200+ LeetCode Problems  
 🎯 Passionate about building scalable web applications  
 
 ---
